@@ -19,7 +19,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "main"
+        nav: "sidebar"
 
 plugins:
   - jekyll-include-cache
