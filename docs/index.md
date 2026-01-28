@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Chris Smith"
+title: "Seeger - LA 5880"
 header:
   overlay_image: /assets/images/cover.png
   overlay_filter: 0.3
@@ -13,6 +13,4 @@ This site contains my coursework, exercises, and final project for **LA5880**.
 
 Use the menu on the left to navigate through tasks, exercises, assignments, and my final project.
 
-
-<h1>Chris Seeger</h1>
-<p>Please see information <a href = "about">about</a> me for more information about me.</p>
+You can start by going to learn more <a href = "about">about me</a> me or clicking one of the buttons below to jump to that section of my portfolio.</p>
