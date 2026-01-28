@@ -2,8 +2,12 @@ title: "Home"
 description: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
 
-# Theme options
+custom_css:
+  - /assets/css/custom.css
+
+# Theme options for above include
 # default – Base/standard look
 # air – Calm, light blue tones
 # aqua – Water-like blues
@@ -15,10 +19,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # plum – Purple palette
 # sunrise – Warm oranges
 
-minimal_mistakes_skin: "air"
 
-custom_css:
-  - /assets/css/custom.css
 
 search: false
 
