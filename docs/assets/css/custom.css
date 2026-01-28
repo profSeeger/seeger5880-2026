@@ -4,7 +4,7 @@
 }
 
 .feature__item img {
-  max-height: 160px;
+  max-height: 120px;
   object-fit: cover;
 }
 
