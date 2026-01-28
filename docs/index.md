@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/exercises.png
     alt: "Exercises"
     title: "Exercises"
-    excerpt: "Hands-on GIS and spatial analysis exercises"
+    excerpt: "Hands-on GIS exercises"
     url: /exercises/
     btn_label: "View Exercises"
     btn_class: "btn--primary"
@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/final.png
     alt: "Final Project"
     title: "Final Project"
-    excerpt: "Capstone project and deliverables"
+    excerpt: "Final project and deliverables"
     url: /final-project/
     btn_label: "View Final Project"
     btn_class: "btn--primary"
@@ -49,5 +49,8 @@ This site contains my coursework, exercises, and final project for **LA5880**.
 Use the menu on the left to navigate through tasks, exercises, assignments, and my final project.
 
 You can start by going to learn more <a href = "about">about me</a> me or clicking one of the buttons below to jump to that section of my portfolio.
+
+
+{% include feature_row %}
 
 
