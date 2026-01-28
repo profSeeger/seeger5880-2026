@@ -1,0 +1,42 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About Me"
+    url: /about/
+
+  - title: "Tasks"
+    children:
+      - title: "2a QGIS PDF"
+        url: /tasks/2a-qgis-pdf/
+      - title: "2a QGIS JPG"
+        url: /tasks/2a-qgis-jpg/
+      - title: "2b OSM Embed"
+        url: /tasks/2b-osm/
+      - title: "3a Tableau Embed"
+        url: /tasks/3a-tableau/
+
+  - title: "Exercises"
+    children:
+      - title: "2b"
+        url: /exercises/2b/
+
+  - title: "Assignments"
+    children:
+      - title: "5a"
+        url: /assignments/5a/
+      - title: "6a"
+        url: /assignments/6a/
+      - title: "Mid"
+        url: /assignments/mid/
+
+  - title: "Final Project"
+    children:
+      - title: "Proposal"
+        url: /final-project/proposal/
+      - title: "Data Overview"
+        url: /final-project/data-overview/
+      - title: "Maps"
+        url: /final-project/maps/
+      - title: "Dashboard"
+        url: /final-project/dashboard/
