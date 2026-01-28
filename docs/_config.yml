@@ -1,24 +1,24 @@
 title: "Home"
 description: ""
+
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Theme options
-    # default – Base/standard look
-    # air – Calm, light blue tones
-    # aqua – Water-like blues
-    # contrast – Bold contrast (strong link colors and inverted footer)
-    # dark – Dark background with light text
-    # dirt – Earthy/off-white tones
-    # mint – Fresh green accents
-    # neon – Bright highlights on dark background
-    # plum – Purple-leaning palette
-    # sunrise – Warm oranges and reds
+# default – Base/standard look
+# air – Calm, light blue tones
+# aqua – Water-like blues
+# contrast – Bold contrast
+# dark – Dark background
+# dirt – Earthy tones
+# mint – Fresh green accents
+# neon – Bright highlights
+# plum – Purple palette
+# sunrise – Warm oranges
 
 minimal_mistakes_skin: "air"
 
 custom_css:
   - /assets/css/custom.css
-
 
 search: false
 
@@ -40,4 +40,3 @@ defaults:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
