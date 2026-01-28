@@ -1,6 +1,6 @@
 ---
 title: "Mid Semester project"
-permalink: /exercises/mid/
+permalink: /assignments/mid/
 ---
 
 Mid Semester Project description
