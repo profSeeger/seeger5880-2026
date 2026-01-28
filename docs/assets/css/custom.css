@@ -11,6 +11,7 @@
 .feature__item img {
   border-radius: 8px;
 }
+
 .feature__item img {
   max-height: 120px !important;
   outline: 4px solid red !important;
