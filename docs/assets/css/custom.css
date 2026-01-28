@@ -2,3 +2,8 @@
 .layout--home .page__hero--overlay {
   min-height: 560px;
 }
+
+.feature__item img {
+  max-height: 160px;
+  object-fit: cover;
+}
