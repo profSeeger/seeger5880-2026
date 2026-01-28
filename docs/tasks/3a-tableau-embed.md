@@ -1,5 +1,5 @@
 ---
-title: "3a Tableau Embedded example"
+title: "3a Tableau Embedded Example"
 permalink: /tasks/3a-tableau-embed/
 markdown: false
 ---
