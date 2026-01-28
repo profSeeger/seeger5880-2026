@@ -16,6 +16,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: "sunrise"
 
+custom_css:
+  - /assets/css/custom.css
+
+
 search: false
 
 markdown: kramdown
