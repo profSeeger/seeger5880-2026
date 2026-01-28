@@ -2,7 +2,19 @@ title: "LA 5580"
 description: ""
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "air"
+# Theme options
+    # default – Base/standard look
+    # air – Calm, light blue tones
+    # aqua – Water-like blues
+    # contrast – Bold contrast (strong link colors and inverted footer)
+    # dark – Dark background with light text
+    # dirt – Earthy/off-white tones
+    # mint – Fresh green accents
+    # neon – Bright highlights on dark background
+    # plum – Purple-leaning palette
+    # sunrise – Warm oranges and reds
+
+minimal_mistakes_skin: "sunrise"
 
 search: false
 
