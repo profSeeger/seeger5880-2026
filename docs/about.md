@@ -1,8 +1,5 @@
 ---
 title: "About Me"
-layout: single
-sidebar:
-  nav: "main"
 permalink: /about/
 ---
 
