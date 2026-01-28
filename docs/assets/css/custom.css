@@ -1,0 +1,4 @@
+/* Reduce hero header height */
+.page__hero--overlay {
+  min-height: 300px;
+}
