@@ -1,4 +1,4 @@
-# Top navigation (shown on splash & pages)
+ester Project# Top navigation (shown on splash & pages)
 main:
 # - title: "Home"
 #  url: /
@@ -14,28 +14,26 @@ sidebar:
   - title: "Tasks"
     children:
       - title: "2a QGIS PDF"
-        url: /tasks/2a-qgis-pdf/
+        url: /tasks/2a-pdf/
       - title: "2a QGIS JPG"
-        url: /tasks/2a-qgis-jpg/
+        url: /tasks/2a-jpg/
       - title: "2b OSM Embed"
         url: /tasks/2b-osm/
       - title: "3a Tableau Embed"
-        url: /tasks/3a-tableau/
+        url: /tasks/3a-tableau-embed/
 
   - title: "Exercises"
     children:
       - title: "2a"
         url: /exercises/2a/
-      - title: "4a"
-        url: /exercises/4a/
+      - title: "3a"
+        url: /exercises/3a/
 
   - title: "Assignments"
     children:
-      - title: "5a"
+      - title: "5a with title"
         url: /assignments/5a/
-      - title: "6a"
-        url: /assignments/6a/
-      - title: "Mid"
+      - title: "Mid Semester Project"
         url: /assignments/mid/
 
   - title: "Final Project"
