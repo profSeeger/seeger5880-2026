@@ -1,7 +1,7 @@
 # Top navigation (shown on splash & pages)
 main:
-  - title: "Home"
-    url: /
+ # - title: "Home"
+#  url: /
 
   - title: "About"
     url: /about/
@@ -9,6 +9,8 @@ main:
     
 # Sidebar navigation (docs-style)
 sidebar:
+  - title: "About"
+    url: /about/
   - title: "Tasks"
     children:
       - title: "2a QGIS PDF"
