@@ -7,3 +7,7 @@
   max-height: 160px;
   object-fit: cover;
 }
+
+.feature__item img {
+  border-radius: 8px;
+}
