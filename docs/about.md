@@ -1,5 +1,9 @@
 ---
 title: "About Me"
+layout: single
+sidebar:
+  nav: "main"
+permalink: /about/
 ---
 
 My name is **Your Name**.
