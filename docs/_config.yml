@@ -1,0 +1,25 @@
+title: "Chris Smith LA5880 Portfolio"
+description: "Portfolio for LA5880"
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "air"
+
+search: true
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      sidebar:
+        nav: "main"
+
+plugins:
+  - jekyll-include-cache
