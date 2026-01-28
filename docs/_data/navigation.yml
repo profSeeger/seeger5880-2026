@@ -1,15 +1,15 @@
 # Top navigation (shown on splash & pages)
 main:
- # - title: "Home"
+# - title: "Home"
 #  url: /
 
-  - title: "About"
-    url: /about/
+#  - title: "About Me"
+#   url: /about/
 
     
 # Sidebar navigation (docs-style)
 sidebar:
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Tasks"
     children:
