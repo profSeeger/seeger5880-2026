@@ -15,4 +15,4 @@ Use the menu on the left to navigate through tasks, exercises, assignments, and 
 
 
 <h1>Chris Seeger</h1>
-<p>Please see information <a href = "about.md">about</a> me for more information about me.</p>
+<p>Please see information <a href = "about">about</a> me for more information about me.</p>
