@@ -3,6 +3,5 @@ title: "Mid Semester project"
 permalink: /exercises/mid/
 ---
 
-Mid Semester Project
+Mid Semester Project description
 
-<h1>Hello 4a</h1>
