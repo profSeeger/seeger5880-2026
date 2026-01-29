@@ -8,6 +8,7 @@ excerpt: "LA5880 – Web Mapping Portfolio"
 
 feature_row:
   - image_path: /assets/images/tasks.png
+    image_link: true
     alt: "Tasks"
     title: "Tasks"
     excerpt: "Weekly tasks and embedded outputs"
@@ -16,6 +17,7 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/exercises.png
+    image_link: true
     alt: "Exercises"
     title: "Exercises"
     excerpt: "Hands-on GIS exercises"
@@ -24,6 +26,7 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/assignments.png
+    image_link: true
     alt: "Assignments"
     title: "Assignments"
     excerpt: "Major course assignments"
@@ -32,6 +35,7 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/final.png
+    image_link: true
     alt: "Final Project"
     title: "Final Project"
     excerpt: "Final project and deliverables"
