@@ -1,7 +1,17 @@
 ---
 title: "2a QGIS PDF"
 permalink: /tasks/2a-pdf/
----
+markdown: false
 
-There are some contents here for task 2a.
-Note error in perma must match nav link
+---
+Below is a PDF map for the Iowa Household Income from the 2023 ACS.
+It has to use a HTML iFrame to display the PDF correctly.
+
+
+<iframe
+  src="/seeger5880-2026/assets/pdf/2a_household_income.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;"
+>
+</iframe>
