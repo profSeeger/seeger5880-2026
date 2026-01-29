@@ -1,7 +1,7 @@
 ---
-layout: default
 title: "3a Tableau Embedded Example 3"
 permalink: /tasks/3a-tableau-embed3/
+markdown: false
 ---
 
 <div class="tableauPlaceholder" id="viz1769662152415" style="position: relative;">
