@@ -26,6 +26,10 @@ search: false
 markdown: kramdown
 permalink: pretty
 
+atom_feed:
+  hide: true
+
+
 collections:
   pages:
     output: true
