@@ -42,7 +42,6 @@ defaults:
     custom_head: head/custom.html
       sidebar:
         nav: "sidebar"
-	
 
 plugins:
   - jekyll-remote-theme
