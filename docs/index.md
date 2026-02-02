@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
 excerpt: "LA5880 – Web Mapping Portfolio"
+custom_head: head/custom.html
 
 feature_row:
   - alt: "Tasks"
@@ -29,20 +30,6 @@ feature_row:
 
 
 ---
-
-<style>
-.homepage-buttons {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  gap: 0.5rem;
-}
-
-  body {
-  outline: 5px solid red;
-}
-
-</style>
 
 ## Welcome
 
