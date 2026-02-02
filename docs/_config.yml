@@ -4,10 +4,6 @@ description: ""
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
-# Automatically load this CSS on all pages
-custom_css:
-  - /assets/css/custom.css
-
 search: false
 markdown: kramdown
 permalink: pretty
@@ -31,15 +27,3 @@ defaults:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-# Theme options for above skin setting
-# default – Base/standard look
-# air – Calm, light blue tones
-# aqua – Water-like blues
-# contrast – Bold contrast
-# dark – Dark background
-# dirt – Earthy tones
-# mint – Fresh green accents
-# neon – Bright highlights
-# plum – Purple palette
-# sunrise – Warm oranges
