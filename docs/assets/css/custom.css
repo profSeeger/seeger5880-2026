@@ -1,3 +1,17 @@
+
+/* assets/css/custom.css */
+
+/* Example: add your custom styles here */
+body {
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: #2a6ebb;
+}
+
+
+
 /* Reduce hero header height */
 .layout--home .page__hero--overlay {
   min-height: 560px;
