@@ -7,9 +7,9 @@ header:
 excerpt: "LA5880 – Web Mapping Portfolio"
 
 feature_row:
-  - alt: "Tasks"
+  - excerpt: "Weekly tasks and embedded outputs"
+    alt: "Tasks"
     title: "Tasks"
-    excerpt: "Weekly tasks and embedded outputs"
     url: /tasks/
     btn_label: "View Tasks"
     btn_class: "btn--primary"
