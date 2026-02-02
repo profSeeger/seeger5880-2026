@@ -30,6 +30,15 @@ feature_row:
 
 ---
 
+<style>
+.homepage-buttons {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+</style>
+
 ## Welcome
 
 This site contains my coursework, exercises, and final project for **LA5880**.
