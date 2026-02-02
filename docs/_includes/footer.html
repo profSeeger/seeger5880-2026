@@ -1,3 +1,18 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title | default: "Your Name" }}
+</div>
+
+
+
+
 <div class="page__footer-copyright">
   © 2026 Your Name | LA 5880 Web Mapping Portfolio
 </div>
