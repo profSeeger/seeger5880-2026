@@ -37,6 +37,11 @@ feature_row:
   justify-content: center;
   gap: 0.5rem;
 }
+
+  body {
+  outline: 5px solid red;
+}
+
 </style>
 
 ## Welcome
