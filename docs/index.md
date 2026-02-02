@@ -7,28 +7,6 @@ header:
 excerpt: "LA5880 – Web Mapping Portfolio"
 custom_head: head/custom.html
 
-feature_row:
-  - alt: "Tasks"
-    url: /tasks/
-    btn_label: "View Tasks"
-    btn_class: "btn--primary"
-
-  - alt: "Exercises"
-    url: /exercises/
-    btn_label: "View Exercises"
-    btn_class: "btn--primary"
-
-  - alt: "Assignments"
-    url: /assignments/
-    btn_label: "View Assignments"
-    btn_class: "btn--primary"
-
-  - alt: "Final Project"
-    url: /final-project/
-    btn_label: "View Final Project"
-    btn_class: "btn--primary"
-
-
 ---
 
 ## Welcome
@@ -37,7 +15,9 @@ This site contains my coursework, exercises, and final project for **LA5880**.
 
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
 
-
-{% include feature_row %}
-
-
+<div class="button-container">
+  <a href="/seeger5880-2026/tasks/" class="btn btn--primary">View Tasks</a>
+  <a href="/seeger5880-2026/exercises/" class="btn btn--primary">View Exercises</a>
+  <a href="/seeger5880-2026/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="/seeger5880-2026/final-project/" class="btn btn--primary">View Final Project</a>
+</div>
