@@ -15,7 +15,6 @@ feature_row:
     btn_class: "btn--primary"
 
   - alt: "Exercises"
-    title: "Exercises"
     url: /exercises/
     btn_label: "View Exercises"
     btn_class: "btn--primary"
