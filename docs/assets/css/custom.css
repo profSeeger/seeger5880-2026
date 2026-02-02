@@ -37,3 +37,10 @@ h1 {
   gap: 0.3rem;       /* space between buttons reduced from 0.5rem - adjust as needed */
   justify-content: center; /* center everything */
 }
+
+@media (max-width: 768px) {
+  .button-container {
+    flex-wrap: wrap; /* allow wrapping on small screens */
+    gap: 0.3rem;
+  }
+}
