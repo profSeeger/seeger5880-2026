@@ -4,10 +4,6 @@ description: ""
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
-# Automatically load this CSS on all pages
-custom_css:
-  - /assets/css/custom.css
-
 search: false
 markdown: kramdown
 permalink: pretty
