@@ -39,7 +39,7 @@ defaults:
       path: ""
     values:
       layout: single
-	  custom_head: head/custom.html
+    custom_head: head/custom.html
       sidebar:
         nav: "sidebar"
 	
