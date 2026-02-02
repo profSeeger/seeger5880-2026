@@ -29,6 +29,8 @@ permalink: pretty
 atom_feed:
   hide: true
 
+footer:
+  text: "© 2026 My Name or Custom Text"
 
 collections:
   pages:
