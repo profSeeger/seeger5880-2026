@@ -29,9 +29,6 @@ permalink: pretty
 atom_feed:
   hide: true
 
-# Custom footer text
-footer:
-  text: "© 2026 Seeger – LA5880 Portfolio. All rights reserved."
 
 collections:
   pages:
