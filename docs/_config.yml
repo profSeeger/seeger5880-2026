@@ -39,9 +39,10 @@ defaults:
       path: ""
     values:
       layout: single
+	  custom_head: head/custom.html
       sidebar:
         nav: "sidebar"
-	custom_head: head/custom.html
+	
 
 plugins:
   - jekyll-remote-theme
