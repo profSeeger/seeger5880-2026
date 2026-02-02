@@ -16,7 +16,6 @@ feature_row:
 
   - alt: "Exercises"
     title: "Exercises"
-    excerpt: "Hands-on GIS exercises"
     url: /exercises/
     btn_label: "View Exercises"
     btn_class: "btn--primary"
@@ -42,9 +41,7 @@ feature_row:
 
 This site contains my coursework, exercises, and final project for **LA5880**.
 
-Use the menu on the left to navigate through tasks, exercises, assignments, and my final project.
-
-You can start by going to learn more <a href = "about">about me</a> me or clicking one of the buttons below to jump to that section of my portfolio.
+Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
 
 
 {% include feature_row %}
