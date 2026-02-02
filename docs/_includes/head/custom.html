@@ -8,13 +8,24 @@
   <meta name="CocoaVersion" content="2685.3">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
   </style>
 </head>
 <body>
-<p class="p1">.button-container {</p>
-<p class="p1"><span class="Apple-converted-space">  </span>display: grid;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>grid-template-columns: repeat(4, 1fr);</p>
+<p class="p1">&lt;style&gt;</p>
+<p class="p1">/* Force homepage buttons onto one row */</p>
+<p class="p1">.homepage-buttons {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>flex-wrap: nowrap;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>justify-content: center;</p>
 <p class="p1"><span class="Apple-converted-space">  </span>gap: 0.5rem;</p>
 <p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">/* Optional: slightly smaller buttons */</p>
+<p class="p1">.homepage-buttons .btn {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 0.5rem 0.75rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 0.9rem;</p>
+<p class="p1">}</p>
+<p class="p1">&lt;/style&gt;</p>
 </body>
 </html>
