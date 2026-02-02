@@ -7,9 +7,7 @@ header:
 excerpt: "LA5880 – Web Mapping Portfolio"
 
 feature_row:
-  - excerpt: "Weekly tasks and embedded outputs"
-    alt: "Tasks"
-    title: "Tasks"
+  - alt: "Tasks"
     url: /tasks/
     btn_label: "View Tasks"
     btn_class: "btn--primary"
@@ -19,16 +17,12 @@ feature_row:
     btn_label: "View Exercises"
     btn_class: "btn--primary"
 
-  - ialt: "Assignments"
-    title: "Assignments"
-    excerpt: "Major course assignments"
+  - alt: "Assignments"
     url: /assignments/
     btn_label: "View Assignments"
     btn_class: "btn--primary"
 
   - alt: "Final Project"
-    title: "Final Project"
-    excerpt: "Final project and deliverables"
     url: /final-project/
     btn_label: "View Final Project"
     btn_class: "btn--primary"
