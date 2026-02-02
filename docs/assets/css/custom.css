@@ -16,3 +16,10 @@
   max-height: 120px !important;
   outline: 4px solid red !important;
 }
+
+.button-container {
+  display: flex;
+  flex-wrap: nowrap; /* prevents wrapping */
+  gap: 0.5rem;       /* space between buttons */
+  justify-content: center; /* center everything */
+}
